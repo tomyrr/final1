@@ -38,11 +38,15 @@ li {
 }
 
 main section{
+    height: 600px;
     display: flex;
-    justify-content: space-around;
     align-items: center;
 }
 
 .imgg{
-    width: 600px;
+    margin-right: -100px;
+}
+
+.imgg img{
+    width: 650px;
 }
