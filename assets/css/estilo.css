@@ -1,0 +1,43 @@
+
+.icono {
+    width: 50px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.titulos {
+    padding-top: 100px;
+}
+
+.cuadro {
+    background-color: white;
+    border: 0.1px solid black;
+    height: 100%;
+    width: 100%;
+    border-radius: 2px;
+}
+
+footer{
+    background-color: #6852ED;
+}
+
+footer article:nth-child(4){
+    margin: 30px 0px;
+}
+
+ul {
+    text-decoration: none;
+    list-style: none;
+    margin: 0px -30px;
+}
+
+.link{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.in-line{
+    white-space: nowrap;
+}
